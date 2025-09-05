@@ -1,17 +1,17 @@
-# 👋 Welcome to Volis Technology
+# Welcome to Volis Technology
 
 **Bringing order to chaos.**  
 We design and deliver scalable data, AI, and infrastructure solutions that connect open-source and enterprise technologies across multi-cloud environments.  
 
 ---
 
-## 🌍 Our Vision
+## Our Vision
 Every organization deserves its own integrated data system to achieve operational excellence in the 21st century.  
 At **Volis**, we build the foundations for that transformation: from **data collection and governance** to **analytics, machine learning, and AI-driven decision support**.
 
 ---
 
-## 🚀 What We Do
+## What We Do
 
 ### **Volis Bridge**
 A unified data platform that connects open-source tools with enterprise systems.  
@@ -57,7 +57,7 @@ Recurring data projects tailored for high-impact needs.
 
 ---
 
-## 💡 Why Choose Volis
+## Why Choose Volis
 - **Cloud-agnostic & open-source first** → No vendor lock-in  
 - **Industrial focus** → Built for construction, mining, infrastructure, and heavy industry  
 - **Speed & scalability** → Tactical offline-first tools that scale into enterprise platforms  
@@ -66,11 +66,7 @@ Recurring data projects tailored for high-impact needs.
 
 ---
 
-## 🔗 Useful Links
-- 🌐 Website: [volis.ai](https://www.volis.ai)  
-- 💼 LinkedIn: [Volis Technology](https://www.linkedin.com/company/volis-ai)  
-- 🖥️ GitHub: [github.com/volis](https://github.com/volis)  
-
----
-
-✨ *At Volis, we bridge the gap between open-source innovation and enterprise reliability, giving organizations the tools they need to scale securely and intelligently.*  
+## Useful Links
+- Website: [volis.ai](https://www.volis.ai)  
+- LinkedIn: [Volis Technology](https://www.linkedin.com/company/volis-ai)  
+- GitHub: [github.com/volis](https://github.com/volis)  
